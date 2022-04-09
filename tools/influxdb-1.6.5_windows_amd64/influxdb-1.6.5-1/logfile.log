@@ -1,0 +1,1 @@
+run: parse config: Near line 26 (last key parsed 'meta.dir'): invalid escape character 'I'; only the following escape characters are allowed: \b, \t, \n, \f, \r, \", \\, \uXXXX, and \UXXXXXXXX

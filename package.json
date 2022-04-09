@@ -1,0 +1,25 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "description": "welcome browser testing -sitespeed.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bismilla1/browserperformance.git"
+  },
+  "author": "bismilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bismilla1/browserperformance/issues"
+  },
+  "homepage": "https://github.com/Bismilla1/browserperformance#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-modules": "^1.0.1",
+    "sitespeed.io": "^23.6.1"
+  }
+   
+}

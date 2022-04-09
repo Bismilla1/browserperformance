@@ -1,0 +1,13 @@
+{
+    "browsertime":{
+        "iterations": 1,
+        "chrome":{
+            "args":["use-fake-ui-for-media-stream", "incognito"]
+            
+
+
+        }
+
+    }
+    
+}
